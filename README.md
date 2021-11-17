@@ -22,7 +22,7 @@ periscope runs on MacOS and Linux. We have also confirmed the tool runs under wi
 
 # Installation
 ```
-git clone https://github.com/sheffield-bioinformatics-core/periscope.git && cd periscope
+git clone https://github.com/happykhan/periscope.git && cd periscope
 conda env create -f environment.yml
 conda activate periscope
 pip install .
